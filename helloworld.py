@@ -6,4 +6,4 @@
 name = input("Please your name: ")
 
 # The script
-print("Hello ", name, "! ... Welcome to programming!", sep="")
+print("Hello ", name, "! ... Welcome to programming!!", sep="")
